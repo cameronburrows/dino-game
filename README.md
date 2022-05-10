@@ -1,2 +1,2 @@
 # dino-game
-Simple game based of of google chrome version
+Simple game based off of google chrome version
